@@ -2,7 +2,7 @@
     "name": "billdesk/billdesk-client-php",
     "description": "BillDesk Payment Gateway Client in PHP",
     "type": "library",
-    "license": "GPL",
+    "license": "GPL-1.0",
     "require": {
         "guzzlehttp/guzzle": "^7.3",
         "php": ">=7.2",
