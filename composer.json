@@ -10,7 +10,7 @@
         "web-token/jwt-key-mgmt": "2.2.10",
         "web-token/jwt-signature": "2.2.10",
         "web-token/jwt-signature-algorithm-hmac": "2.2.10",
-        "monolog/monolog": "^2.2"
+        "monolog/monolog": ">=2.1"
     },
     "autoload": {
     	"psr-4": {
