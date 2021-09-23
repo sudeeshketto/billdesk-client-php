@@ -4,8 +4,8 @@
     "type": "library",
     "license": "GPL-1.0",
     "require": {
-        "guzzlehttp/guzzle": "^7.3",
-        "php": ">=7.2",
+        "guzzlehttp/guzzle": ">=6.5",
+        "php": ">=5.6",
         "web-token/jwt-core": "2.2.10",
         "web-token/jwt-key-mgmt": "2.2.10",
         "web-token/jwt-signature": "2.2.10",
