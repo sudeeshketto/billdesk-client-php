@@ -2,15 +2,15 @@
     "name": "billdesk/billdesk-client-php",
     "description": "BillDesk Payment Gateway Client in PHP",
     "type": "library",
-    "license": "GPL",
+    "license": "GPL-1.0",
     "require": {
-        "guzzlehttp/guzzle": "^7.3",
-        "php": ">=7.2",
+        "guzzlehttp/guzzle": ">=6.5",
+        "php": ">=5.6",
         "web-token/jwt-core": "2.2.10",
         "web-token/jwt-key-mgmt": "2.2.10",
         "web-token/jwt-signature": "2.2.10",
         "web-token/jwt-signature-algorithm-hmac": "2.2.10",
-        "monolog/monolog": "^2.2"
+        "monolog/monolog": ">=2.1"
     },
     "autoload": {
     	"psr-4": {
