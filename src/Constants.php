@@ -12,8 +12,10 @@ class Constants {
     const HEADER_BD_TRACE_ID = "BD-Traceid";
     const HEADER_BD_TIMESTAMP = "BD-Timestamp";
     const JWE_HEADER_CLIENTID = "clientid";
-    const LOG_CHANNEL = "billdesk-client-php";
-
+    const LOG_CHANNEL = "billdesk-jose-client-php";
+    const SERVER_CERT = "serverCert";
+    const CLIENT_CERT = "clientKey";
+    const THUMBPRINT = "thumbprint";
     public static $logger;
 
     public static function init() {

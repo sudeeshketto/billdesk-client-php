@@ -8,6 +8,10 @@
         "php": ">=5.6",
         "web-token/jwt-core": "2.2.10",
         "web-token/jwt-key-mgmt": "2.2.10",
+        "web-token/jwt-encryption": "2.2.10",
+        "web-token/jwt-encryption-algorithm-aesgcm": "2.2.10",
+        "web-token/jwt-signature-algorithm-rsa": "2.2.10",
+        "web-token/jwt-encryption-algorithm-rsa": "2.2.10",
         "web-token/jwt-signature": "2.2.10",
         "web-token/jwt-signature-algorithm-hmac": "2.2.10",
         "monolog/monolog": ">=2.1"
